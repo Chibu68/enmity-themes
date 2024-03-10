@@ -70,7 +70,7 @@
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1a2838",
+      "#0f141f",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -122,6 +122,7 @@
       "#0d182b"
     ],
     "TEXT_LINK": [
+      "#2e81f7",
       "#2e81f7"
     ],
     "KEYBOARD": [
