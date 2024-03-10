@@ -26,7 +26,7 @@
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#82a5bb",
+      "#99fff3",
       "#3d4858  "
     ],
     "INTERACTIVE_HOVER": [
@@ -118,7 +118,7 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#99fff3",
+      "#b6b6b6",
       "#0d182b"
     ],
     "TEXT_LINK": [
