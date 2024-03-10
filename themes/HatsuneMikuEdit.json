@@ -155,7 +155,7 @@
     "STATUS_RED": "#c18ea4",
     "STATUS_GREEN_600": "#87a2de",
     "STATUS_YELLOW": "#c18ea4",
-    "PLUM_20": "#0a0d19"
+    "PLUM_20": "#0f141f"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#0a0d19"
