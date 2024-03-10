@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#37ffe9",
+      "#008071",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -90,7 +90,7 @@
       "hsla(214, 9.9%, 50.4%, 0.16)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.04)",
+      "#17152d",
       "hsla(214, 9.9%, 50.4%, 0.24)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
@@ -136,14 +136,14 @@
     "#37ffe9"
     ],
     "CHANNEL_ICON": [
-    "#99fff3"
+    "#008071"
     ]
   },
   "colours": {
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#8ac74e",
+    "PRIMARY_DARK_300": "#a7d2ed",
     "PRIMARY_DARK_360": "#99fff3",
     "PRIMARY_DARK_400": "#bebee3",
     "PRIMARY_DARK_500": "#697eab",
