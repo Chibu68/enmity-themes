@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#008071",
+      "#d3eeff",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -150,6 +150,7 @@
     "PRIMARY_DARK_560": "#d3eeff",
     "PRIMARY_DARK_600": "#0a0d19",
     "PRIMARY_DARK_630": "#343843",
+    "PRIMARY_DARK_700": "#0a0d19",
     "PRIMARY_DARK_800": "#0a0d19",
     "BRAND_NEW": "#d3eeff",
     "STATUS_RED": "#c18ea4",
