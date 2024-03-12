@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#17152d",
+      "#008071",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -91,7 +91,7 @@
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#17152d",
-      "hsla(214, 9.9%, 50.4%, 0.24)"
+      "#17152d"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
@@ -121,17 +121,24 @@
       "#b6b6b6",
       "#0d182b"
     ],
+    "TEXT_LINK": [
+      "#2e81f7",
+      "#2e81f7"
+    ],
     "KEYBOARD": [
       "#0f0c23",
       "#0a0d19"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+    "#37ffe9",
     "#37ffe9"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
+    "#37ffe9",
     "#37ffe9"
     ],
     "CHANNEL_ICON": [
+    "#008071",
     "#008071"
     ]
   },
