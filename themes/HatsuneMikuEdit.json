@@ -116,7 +116,7 @@
     "#17152d"
     ],
     "BG_BACKDROP": [
-    "#FF00FF"
+    "transparent"
     ]
   },
   "rawColors": {
