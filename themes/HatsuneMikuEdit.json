@@ -114,6 +114,9 @@
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
     "#17152d"
+    ],
+    "BG_BACKDROP": [
+    "#FF00FF"
     ]
   },
   "rawColors": {
