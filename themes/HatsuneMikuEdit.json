@@ -114,6 +114,9 @@
     ],
     "BG_BACKDROP": [
     "transparent"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+    "#353168"
     ]
   },
   "rawColors": {
