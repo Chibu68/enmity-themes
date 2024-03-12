@@ -45,7 +45,7 @@
     "BACKGROUND_TERTIARY": [
       "#0a0d19"
     ],
-    "BACKGROUND_MODIFIER_SELECTED": [
+    "BACKGROUND_ACCENT": [
       "#17152d"
     ],
     "BACKGROUND_FLOATING": [
@@ -69,9 +69,6 @@
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "rgba(255, 255, 255, 0.03)"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#17152d"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#2a1858"
