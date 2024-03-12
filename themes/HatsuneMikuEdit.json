@@ -37,7 +37,7 @@
       "#0f141f"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0f141f"
+      "#ff00ff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#0f141f"
@@ -52,14 +52,13 @@
       "#17152d"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#ff00ff"
+      "#17152d"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#0f141f"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#1a2838",
-      "#ffffff"
+      "#1a2838"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)"
@@ -95,25 +94,25 @@
       "#0f0c23"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-    "#37ffe9"
+      "#37ffe9"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-    "#37ffe9"
+      "#37ffe9"
     ],
     "CHANNEL_ICON": [
-    "#008071"
+      "#008071"
     ],
     "CARD_PRIMARY_BG": [
-    "#17152d"
+      "#17152d"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-    "#17152d"
+      "#17152d"
     ],
     "BG_BACKDROP": [
-    "transparent"
+      "transparent"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-    "#353168"
+      "#353168"
     ]
   },
   "rawColors": {
