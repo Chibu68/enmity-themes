@@ -70,9 +70,6 @@
     "BACKGROUND_MODIFIER_ACTIVE": [
       "rgba(255, 255, 255, 0.03)"
     ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#17152d"
-    ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#17152d"
     ],
