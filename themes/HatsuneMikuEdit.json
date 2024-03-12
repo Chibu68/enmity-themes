@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#17152d",
+      "#ff0000",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -112,6 +112,10 @@
     "SCROLLBAR_AUTO_TRACK": [
       "rgba(0, 0, 0, 0.1)",
       "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
       "#b6b6b6",
