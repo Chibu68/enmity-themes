@@ -1,4 +1,4 @@
-  {
+{
   "name": "HatsuneMiku",
   "description": "Hatsune Miku Theme, Chibu68 Edit",
   "version": "1.8",
@@ -8,141 +8,115 @@
       "id": "705853948052897813"
     }
   ],
-  "theme_color_map": {
+  "semanticColors": {
     "HEADER_PRIMARY": [
-      "#a7d2ed",
-      "#0f141f"
+      "#a7d2ed"
     ],
     "HEADER_SECONDARY": [
-      "#82a5bb",
-      "#3d4858"
+      "#82a5bb"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
-      "#2e3338"
+      "#FBFBFB"
     ],
     "TEXT_MUTED": [
-      "#a7d2ed",
-      "#747f8d"
+      "#a7d2ed"
     ],
     "INTERACTIVE_NORMAL": [
-      "#82a5bb",
-      "#3d4858 "
+      "#82a5bb"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
-      "#2e3338"
+      "#17152d"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#37ffe9",
-      "#1e1e38"
+      "#37ffe9"
     ],
     "INTERACTIVE_MUTED": [
-      "#445a87",
-      "#c7ccd1"
+      "#445a87"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0f141f",
-      "#ffffff"
+      "#0f141f"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0f141f",
-      "#f2f3f5"
+      "#0f141f"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0f141f",
-      "#ebedef"
+      "#0f141f"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0a0d19",
-      "#e3e5e8"
+      "#0a0d19"
     ],
     "BACKGROUND_ACCENT": [
-      "#008071",
-      "#747f8d"
+      "#008071"
     ],
     "BACKGROUND_FLOATING": [
-      "#17152d",
-      "#FFFFFF"
+      "#17152d"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#17152d",
-      "#f8f9f9"
+      "#17152d"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0f141f",
-      "#ffffff"
+      "#0f141f"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#1a2838",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "#FFFFFF"
+      "rgba(255, 255, 255, 0.02)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "hsla(214, 9.9%, 50.4%, 0.08)"
+      "rgba(255, 255, 255, 0.02)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
-      "hsla(214, 9.9%, 50.4%, 0.16)"
+      "rgba(255, 255, 255, 0.03)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#17152d",
       "#17152d"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "hsla(240, 7.7%, 2.5%, 0.08)"
+      "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2a1858",
-      "hsla(217, 7.6%, 33.5%, 0.3)"
+      "#2a1858"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "hsla(0, 0%, 0%, 0)"
+      "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#2a1858",
-      "#cccccc"
+      "#2a1858"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "rgba(0, 0, 0, 0.1)",
-      "#f2f2f2"
+      "rgba(0, 0, 0, 0.1)"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
-      "#ebedef"
+      "#111111"
     ],
     "CHANNELS_DEFAULT": [
-      "#b6b6b6",
-      "#0d182b"
+      "#b6b6b6"
     ],
     "TEXT_LINK": [
-      "#2e81f7",
       "#2e81f7"
     ],
     "KEYBOARD": [
-      "#0f0c23",
-      "#0a0d19"
+      "#0f0c23"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-    "#37ffe9",
     "#37ffe9"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-    "#37ffe9",
     "#37ffe9"
     ],
     "CHANNEL_ICON": [
-    "#008071",
     "#008071"
+    ],
+    "CARD_PRIMARY_BG": [
+    "#17152d"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+    "#17152d"
     ]
   },
-  "colours": {
+  "rawColors": {
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
